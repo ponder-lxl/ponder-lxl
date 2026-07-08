@@ -78,7 +78,7 @@ ponder = {
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponder-lxl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![Top Langs](./assets/top-langs.svg)
 
 </div>
 
@@ -88,7 +88,7 @@ ponder = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ponder-lxl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com/?user=ponder-lxl&theme=tokyonight&hide_border=true&locale=zh&cache_seconds=86400" alt="GitHub Streak" />
 
 </div>
@@ -119,7 +119,7 @@ ponder = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ponder-lxl&theme=discord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&cache_seconds=86400" alt="GitHub Trophies" />
+<img src="./assets/trophies.svg" alt="GitHub Trophies" />
 
 </div>
 
