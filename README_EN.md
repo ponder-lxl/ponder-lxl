@@ -13,9 +13,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ponder-lxl?style=for-the-badge&logo=github&color=181717)](https://github.com/ponder-lxl?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ponder-lxl?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ponder-lxl?tab=stars)
-[![Profile views](https://komarev.com/ghpvc/?username=ponder-lxl&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ponder-lxl)
+[![followers](https://img.shields.io/github/followers/ponder-lxl?style=flat-square&logo=github&label=followers&color=181717)](https://github.com/ponder-lxl?tab=followers)
+[![stars](https://img.shields.io/github/stars/ponder-lxl?style=flat-square&logo=github&label=stars&color=FFD700)](https://github.com/ponder-lxl?tab=stars)
+[![views](https://komarev.com/ghpvc/?username=ponder-lxl&color=58a6ff&style=flat-square&label=views)](https://github.com/ponder-lxl)
 
 </div>
 
@@ -48,6 +48,23 @@ ponder = {
 - 📝 Tech blog: [酌量 @ CSDN](https://blog.csdn.net/qq_51176066?type=blog)
 - 📺 Bilibili: [My Channel](https://space.bilibili.com/341846484)
 - ⚡ Fun fact: **Coffee is truly the lifeline for us workhorses**
+
+---
+
+### 📦 Open Source Repos
+
+Featured projects focused on mobile robot **mapping, localization, navigation & simulation**:
+
+| Repository | Description |
+|------------|-------------|
+| [navigation_note](https://github.com/ponder-lxl/navigation_note) | ROS Navigation source code notes (DWA, TEB, move_base) |
+| [nav_noetic](https://github.com/ponder-lxl/nav_noetic) | ROS Noetic mapping, localization & navigation packages |
+| [nav2_gps_waypoint_follower](https://github.com/ponder-lxl/nav2_gps_waypoint_follower) | ROS2 Humble GPS waypoint following navigation |
+| [octomap_planner](https://github.com/ponder-lxl/octomap_planner) | 3D static obstacle avoidance planning with OctoMap |
+| [routing](https://github.com/ponder-lxl/routing) | Apollo routing module ported for ROS |
+| [elevation_mapping](https://github.com/ponder-lxl/elevation_mapping) | Robot elevation mapping (ROS2 Humble) |
+| [pointscloud_to_map](https://github.com/ponder-lxl/pointscloud_to_map) | 3D point cloud to 2D occupancy grid map |
+| [gazebo_world](https://github.com/ponder-lxl/gazebo_world) | Complex Gazebo simulation environments (ROS1) |
 
 ---
 

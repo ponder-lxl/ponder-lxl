@@ -13,9 +13,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ponder-lxl?style=for-the-badge&logo=github&color=181717&label=关注者)](https://github.com/ponder-lxl?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ponder-lxl?style=for-the-badge&logo=github&color=FFD700&label=Stars)](https://github.com/ponder-lxl?tab=stars)
-[![Profile views](https://komarev.com/ghpvc/?username=ponder-lxl&color=58a6ff&style=for-the-badge&label=主页访问)](https://github.com/ponder-lxl)
+[![粉丝](https://img.shields.io/github/followers/ponder-lxl?style=flat-square&logo=github&label=粉丝&color=181717)](https://github.com/ponder-lxl?tab=followers)
+[![stars](https://img.shields.io/github/stars/ponder-lxl?style=flat-square&logo=github&label=stars&color=FFD700)](https://github.com/ponder-lxl?tab=stars)
+[![views](https://komarev.com/ghpvc/?username=ponder-lxl&color=58a6ff&style=flat-square&label=views)](https://github.com/ponder-lxl)
 
 </div>
 
@@ -48,6 +48,23 @@ ponder = {
 - 📝 技术博客：[酌量 @ CSDN](https://blog.csdn.net/qq_51176066?type=blog)
 - 📺 B站主页：[我的空间](https://space.bilibili.com/341846484)
 - ⚡ 冷知识：**咖啡真的是牛马的稻草**
+
+---
+
+### 📦 开源仓库
+
+主要开源项目，聚焦移动机器人**建图、定位、导航与仿真**：
+
+| 仓库 | 描述 |
+|------|------|
+| [navigation_note](https://github.com/ponder-lxl/navigation_note) | ROS Navigation 源码阅读笔记（DWA、TEB、move_base） |
+| [nav_noetic](https://github.com/ponder-lxl/nav_noetic) | ROS Noetic 建图、定位、导航功能包 |
+| [nav2_gps_waypoint_follower](https://github.com/ponder-lxl/nav2_gps_waypoint_follower) | ROS2 Humble GPS 航点跟随导航 |
+| [octomap_planner](https://github.com/ponder-lxl/octomap_planner) | 基于 OctoMap 的三维静态避障规划 |
+| [routing](https://github.com/ponder-lxl/routing) | Apollo 路由模块移植，可用于 ROS |
+| [elevation_mapping](https://github.com/ponder-lxl/elevation_mapping) | 机器人高程地图构建（ROS2 Humble） |
+| [pointscloud_to_map](https://github.com/ponder-lxl/pointscloud_to_map) | 三维点云转二维栅格地图 |
+| [gazebo_world](https://github.com/ponder-lxl/gazebo_world) | Gazebo 复杂仿真环境（ROS1） |
 
 ---
 
