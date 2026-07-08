@@ -86,6 +86,8 @@ ponder = {
 
 ### 📊 GitHub Stats
 
+> The contribution snake is generated from your GitHub Contributions, showing the **past year** (rolling 365 days), matching your GitHub profile graph.
+
 <div align="center">
 
 <img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />

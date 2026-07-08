@@ -86,6 +86,8 @@ ponder = {
 
 ### 📊 GitHub 数据
 
+> 贡献蛇基于 GitHub Contributions 生成，默认展示**近一年**（滚动 365 天）的贡献格子，与 GitHub 主页贡献图一致。
+
 <div align="center">
 
 <img height="180" src="./assets/github-stats.svg" alt="GitHub Stats" />
