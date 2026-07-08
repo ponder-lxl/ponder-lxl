@@ -29,10 +29,11 @@ ponder = {
     "编程语言": ["C++", "Python"],
     "擅长领域": ["自主导航", "移动机器人", "ROS2 系统开发"],
     "技术栈": {
-        "机器人框架": ["ROS2", "Navigation2", "TF2", "Colcon"],
-        "导航与定位": ["SLAM Toolbox", "Cartographer", "AMCL", "Costmap"],
+        "机器人框架": ["ROS1/2", "Navigation2", "3D Navigation"],
+        "建图": ["FAST-LIO2", "Gmapping", "AMCL", "Cartographer", "SLAM Toolbox"],
+        "定位": ["二维自主定位", "三维自主定位", "NDT", "ICP"],
         "感知与仿真": ["LiDAR", "OpenCV", "PCL", "Gazebo", "RViz2"],
-        "系统与工具": ["Linux", "Docker", "Vim", "CMake", "Bash"],
+        "系统与工具": ["Linux", "WSL2", "Docker", "Vim", "CMake", "Bash"],
     },
     "当前专注": "移动机器人二维、三维自主导航",
     "冷知识": "咖啡真的是牛马的稻草",
@@ -58,16 +59,18 @@ ponder = {
 
 <br/><br/>
 
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
+[![ROS1/2](https://img.shields.io/badge/ROS1%2F2-机器人框架-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![Nav2](https://img.shields.io/badge/Navigation2-路径规划-5C3D8E?style=for-the-badge)](https://navigation.ros.org/)
-[![SLAM](https://img.shields.io/badge/SLAM_Toolbox-建图定位-2E86AB?style=for-the-badge)](https://github.com/SteveMacenski/slam_toolbox)
-[![Cartographer](https://img.shields.io/badge/Cartographer-SLAM-4285F4?style=for-the-badge)](https://google-cartographer-ros.readthedocs.io/)
-[![AMCL](https://img.shields.io/badge/AMCL-定位-34A853?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-amcl.html)
-[![Gazebo](https://img.shields.io/badge/Gazebo-仿真-F5792A?style=for-the-badge)](https://gazebosim.org/)
-[![RViz2](https://img.shields.io/badge/RViz2-可视化-9B59B6?style=for-the-badge)](https://github.com/ros2/rviz)
-[![PCL](https://img.shields.io/badge/PCL-点云处理-E74C3C?style=for-the-badge)](https://pointclouds.org/)
-[![TF2](https://img.shields.io/badge/TF2-坐标变换-1ABC9C?style=for-the-badge)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Tf2-Main.html)
-[![Costmap](https://img.shields.io/badge/Costmap-代价地图-34495E?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-costmaps.html)
+[![3D Nav](https://img.shields.io/badge/3D_Navigation-三维导航-6C5CE7?style=for-the-badge)](https://github.com/ros-planning/navigation2)
+[![FAST-LIO2](https://img.shields.io/badge/FAST--LIO2-激光惯性建图-2E86AB?style=for-the-badge)](https://github.com/hku-mars/FAST_LIO)
+[![Gmapping](https://img.shields.io/badge/Gmapping-二维建图-4285F4?style=for-the-badge)](https://wiki.ros.org/gmapping)
+[![Cartographer](https://img.shields.io/badge/Cartographer-SLAM-34A853?style=for-the-badge)](https://google-cartographer-ros.readthedocs.io/)
+[![AMCL](https://img.shields.io/badge/AMCL-粒子滤波定位-F5792A?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-amcl.html)
+[![NDT](https://img.shields.io/badge/NDT-三维定位-9B59B6?style=for-the-badge)](https://github.com/koide3/ndt_omp)
+[![ICP](https://img.shields.io/badge/ICP-点云配准-E74C3C?style=for-the-badge)](https://pointclouds.org/documentation/tutorials/icp.html)
+[![WSL2](https://img.shields.io/badge/WSL2-开发环境-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/wsl/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-仿真-1ABC9C?style=for-the-badge)](https://gazebosim.org/)
+[![PCL](https://img.shields.io/badge/PCL-点云处理-34495E?style=for-the-badge)](https://pointclouds.org/)
 
 </div>
 
@@ -102,8 +105,11 @@ ponder = {
 
 <div align="center">
 
-<!-- 贡献蛇：推送代码后需在 Actions 中手动运行 Generate Snake -->
-<img src="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 

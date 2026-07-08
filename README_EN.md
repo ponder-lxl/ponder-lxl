@@ -29,10 +29,11 @@ ponder = {
     "languages": ["C++", "Python"],
     "focus": ["autonomous navigation", "mobile robotics", "ROS2 development"],
     "stack": {
-        "robotics": ["ROS2", "Navigation2", "TF2", "Colcon"],
-        "nav_localization": ["SLAM Toolbox", "Cartographer", "AMCL", "Costmap"],
+        "robotics": ["ROS1/2", "Navigation2", "3D Navigation"],
+        "mapping": ["FAST-LIO2", "Gmapping", "AMCL", "Cartographer", "SLAM Toolbox"],
+        "localization": ["2D Localization", "3D Localization", "NDT", "ICP"],
         "perception_sim": ["LiDAR", "OpenCV", "PCL", "Gazebo", "RViz2"],
-        "system_tools": ["Linux", "Docker", "Vim", "CMake", "Bash"],
+        "system_tools": ["Linux", "WSL2", "Docker", "Vim", "CMake", "Bash"],
     },
     "currentFocus": "Mobile robot 2D & 3D autonomous navigation",
     "funFact": "Coffee is truly the lifeline for us workhorses",
@@ -58,16 +59,18 @@ ponder = {
 
 <br/><br/>
 
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
+[![ROS1/2](https://img.shields.io/badge/ROS1%2F2-Robotics_Framework-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![Nav2](https://img.shields.io/badge/Navigation2-Path_Planning-5C3D8E?style=for-the-badge)](https://navigation.ros.org/)
-[![SLAM](https://img.shields.io/badge/SLAM_Toolbox-Mapping-2E86AB?style=for-the-badge)](https://github.com/SteveMacenski/slam_toolbox)
-[![Cartographer](https://img.shields.io/badge/Cartographer-SLAM-4285F4?style=for-the-badge)](https://google-cartographer-ros.readthedocs.io/)
-[![AMCL](https://img.shields.io/badge/AMCL-Localization-34A853?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-amcl.html)
-[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F5792A?style=for-the-badge)](https://gazebosim.org/)
-[![RViz2](https://img.shields.io/badge/RViz2-Visualization-9B59B6?style=for-the-badge)](https://github.com/ros2/rviz)
-[![PCL](https://img.shields.io/badge/PCL-Point_Cloud-E74C3C?style=for-the-badge)](https://pointclouds.org/)
-[![TF2](https://img.shields.io/badge/TF2-Transforms-1ABC9C?style=for-the-badge)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Tf2-Main.html)
-[![Costmap](https://img.shields.io/badge/Costmap-Planning-34495E?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-costmaps.html)
+[![3D Nav](https://img.shields.io/badge/3D_Navigation-3D_Nav-6C5CE7?style=for-the-badge)](https://github.com/ros-planning/navigation2)
+[![FAST-LIO2](https://img.shields.io/badge/FAST--LIO2-LiDAR_Inertial_Mapping-2E86AB?style=for-the-badge)](https://github.com/hku-mars/FAST_LIO)
+[![Gmapping](https://img.shields.io/badge/Gmapping-2D_Mapping-4285F4?style=for-the-badge)](https://wiki.ros.org/gmapping)
+[![Cartographer](https://img.shields.io/badge/Cartographer-SLAM-34A853?style=for-the-badge)](https://google-cartographer-ros.readthedocs.io/)
+[![AMCL](https://img.shields.io/badge/AMCL-粒子滤波定位-F5792A?style=for-the-badge)](https://navigation.ros.org/configuration/packages/configuring-amcl.html)
+[![NDT](https://img.shields.io/badge/NDT-3D_Localization-9B59B6?style=for-the-badge)](https://github.com/koide3/ndt_omp)
+[![ICP](https://img.shields.io/badge/ICP-Point_Cloud_Registration-E74C3C?style=for-the-badge)](https://pointclouds.org/documentation/tutorials/icp.html)
+[![WSL2](https://img.shields.io/badge/WSL2-Dev_Environment-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-1ABC9C?style=for-the-badge)](https://gazebosim.org/)
+[![PCL](https://img.shields.io/badge/PCL-Point_Cloud-34495E?style=for-the-badge)](https://pointclouds.org/)
 
 </div>
 
@@ -102,7 +105,11 @@ ponder = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
