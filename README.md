@@ -75,7 +75,7 @@ ponder = {
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponder-lxl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponder-lxl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
@@ -85,8 +85,8 @@ ponder = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ponder-lxl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=cn" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ponder-lxl&theme=tokyonight&hide_border=true&locale=zh" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ponder-lxl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=ponder-lxl&theme=tokyonight&hide_border=true&locale=zh&cache_seconds=86400" alt="GitHub Streak" />
 
 </div>
 
@@ -102,6 +102,7 @@ ponder = {
 
 <div align="center">
 
+<!-- 贡献蛇：推送代码后需在 Actions 中手动运行 Generate Snake -->
 <img src="https://raw.githubusercontent.com/ponder-lxl/ponder-lxl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
@@ -112,7 +113,7 @@ ponder = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ponder-lxl&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ponder-lxl&theme=discord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&cache_seconds=86400" alt="GitHub Trophies" />
 
 </div>
 
@@ -143,10 +144,16 @@ ponder = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponder-lxl)
-[![CSDN](https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/qq_51176066?type=blog)
-[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/341846484)
-[![Email](https://img.shields.io/badge/邮箱-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2896513859@qq.com)
+📧 **邮箱**：[2896513859@qq.com](mailto:2896513859@qq.com)  
+📝 **博客**：[酌量 @ CSDN](https://blog.csdn.net/qq_51176066?type=blog)  
+📺 **B站**：[我的空间](https://space.bilibili.com/341846484)
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ponder--lxl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponder-lxl)
+[![Email](https://img.shields.io/badge/邮箱-2896513859@qq.com-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:2896513859@qq.com)
+[![CSDN](https://img.shields.io/badge/CSDN-酌量_技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/qq_51176066?type=blog)
+[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩空间-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/341846484)
 
 </div>
 
