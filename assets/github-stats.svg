@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ponder-lxl&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 25, Total PRs: 0, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 25, Total PRs: 0, Total Issues: 4, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 229.64612439284545;
+        stroke-dashoffset: 230.1972809987384;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >1</text>
+      >0</text>
     </g>
   </g>
     </svg>
